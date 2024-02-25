@@ -11,3 +11,7 @@
 
 ## Mapper Used
 1. Used EFCore for database interaction(sql server)
+
+## ShortComings
+1. Fetching of records is not efficiently implemented in BL
+2. Too much boilerplate code
